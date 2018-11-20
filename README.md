@@ -1,2 +1,2 @@
-# senti-website
+# Senti.Cloud website
 Senti.Cloud website
