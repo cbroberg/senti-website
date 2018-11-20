@@ -1,0 +1,27 @@
+{
+  "name": "senti-website",
+  "version": "1.0.0",
+  "description": "Senti.Cloud website",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/senti-platform/senti-website.git"
+  },
+"keywords": [
+	"Senti",
+	"Senti.Cloud",
+	"IoT",
+	"IoT-platform",
+	"Managed IoT Service",
+	"Website",
+	"Reactjs",
+	"ODEUM"
+],
+  "author": "Christian Broberg",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/senti-platform/senti-website/issues"
+  },
+  "homepage": "https://github.com/senti-platform/senti-website#readme"
+}
